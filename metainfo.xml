@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="A87FDD47-CE2A-4362-8FCE-68539B9437AD" version="0" availableOffline="1">
+<presentation guid="77AFAAF9-891F-44D7-87C5-CAF8AFE40921" version="0" availableOffline="1">
 	<info>
 		<title>Я выбираю Глубокский госпрофлицей</title>
 		<description/>
 	</info>
-	<files index="id114" thumbnail="id215" totalSize="44180456">
+	<files index="id114" thumbnail="id216" totalSize="44181973">
 		<file id="id0">data/slide1.js</file>
 		<file id="id1">data/slide1.css</file>
 		<file id="id2">data/slide2.js</file>
@@ -213,15 +213,16 @@
 		<file id="id209">data/img70.png</file>
 		<file id="id210">data/img71.png</file>
 		<file id="id211">data/img72.png</file>
-		<file id="id212">data/img8.png</file>
-		<file id="id213">data/img9.png</file>
-		<file id="id214">data/interaction_bg_0.png</file>
-		<file id="id215">data/ismplayer/preview.png</file>
-		<file id="id216">data/ismplayer/play.svg</file>
-		<file id="id217">data/ismplayer/style.css</file>
-		<file id="id218">data/ismplayer/style_mini.css</file>
-		<file id="id219">ismplayer.html</file>
-		<file id="id220">data/ismplayer/app_store2x.png</file>
-		<file id="id221">metainfo.xml</file>
+		<file id="id212">data/img73.png</file>
+		<file id="id213">data/img8.png</file>
+		<file id="id214">data/img9.png</file>
+		<file id="id215">data/interaction_bg_0.png</file>
+		<file id="id216">data/ismplayer/preview.png</file>
+		<file id="id217">data/ismplayer/play.svg</file>
+		<file id="id218">data/ismplayer/style.css</file>
+		<file id="id219">data/ismplayer/style_mini.css</file>
+		<file id="id220">ismplayer.html</file>
+		<file id="id221">data/ismplayer/app_store2x.png</file>
+		<file id="id222">metainfo.xml</file>
 	</files>
 </presentation>
